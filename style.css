@@ -3,3 +3,33 @@ body {
   height: 100%;
   margin: 0;
 }
+
+title{
+  margin: auto;
+}
+
+#featured-property figure>img{
+  margin: auto;
+}
+
+#featured-property figure>figcaption{
+  font-size: smaller;
+}
+
+nav~a{
+  padding: 10px;
+  margin: auto;
+  background: gray;
+}
+
+p #featured-property{
+  width: 800px;
+  margin: auto;
+}
+
+div #details{
+  float: left;
+  background: red;
+  margin: auto;
+  width:75%;
+}
